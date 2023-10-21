@@ -14,4 +14,6 @@ try {
     console.log('done');
 }
 
+const a = 1;
+
 module.exports = { client };
