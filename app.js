@@ -14,4 +14,6 @@ try {
     console.log('done');
 }
 
+let a = 2;
+
 module.exports = { client };
