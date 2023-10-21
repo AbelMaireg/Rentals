@@ -14,6 +14,6 @@ try {
     console.log('done');
 }
 
-let a = 2;
+// remove both
 
 module.exports = { client };
